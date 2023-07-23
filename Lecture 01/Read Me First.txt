@@ -1,0 +1,9 @@
+Data Types:----------------
+
+    null
+    undefined
+    boolean
+    number
+    string
+    symbol – available from ES2015
+    bigint – available from ES2020
